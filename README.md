@@ -8,10 +8,9 @@
 - [STACKS](#stacks)
 
 ## 개요
-- 프로젝트 이름: OOTM(Outfit Of The Month: 이달의 패션)
-- 프로젝트 지속기간: 2023.04.26 ~ 2023.05.04
-- 개발 환경: spring Tool suits 3
-- 개발 인원: 5인
+- 프로젝트 이름: YoriJori
+- 프로젝트 지속기간: 2023.05.16 ~ 2023.07.10
+- 개발 인원: 6인
 
 ## 개발환경⚙
 <div align="center">
