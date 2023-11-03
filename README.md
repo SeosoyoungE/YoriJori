@@ -5,6 +5,7 @@
 ## 목차
 - [개요](#개요)
 - [홈페이지 소개](#홈페이지-소개)
+- [개발환경](#개발환경)
 - [STACKS](#stacks)
 
 ## 개요
@@ -12,13 +13,14 @@
 - 프로젝트 지속기간: 2023.05.16 ~ 2023.07.10
 - 개발 인원: 6인
 
+## 홈페이지 소개
+*추가중입니다*
+
 ## 개발환경⚙
 <div align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java 11-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/maven-064F8C?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-## 홈페이지 소개
-*추가중입니다*
 
 ## STACKS📚
 <div align="center">
