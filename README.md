@@ -14,7 +14,24 @@
 - 개발 인원: 6인
 
 ## 홈페이지 소개
-*추가중입니다*
+기능 소개 영상
+- 회원가입 : https://youtu.be/VLuAhoMf-3U
+- 로그인 : https://youtu.be/uCXH3HvvI3o
+- 카카오로그인 : https://youtu.be/xVhEKVfIRgA
+- 쿠킹클래스 insert : https://youtu.be/u1GmN7MFg7k
+- 쿠킹클래스 결제 : https://youtu.be/h2Sbm6zZXUQ
+- 공지사항 등록 : https://youtu.be/YKd0irdaOjM
+- 게시글 등록 : https://youtu.be/oTlqhbuK7Jc
+- 게시글 댓글 : https://youtu.be/X8SEYORnt3M
+- 회원 랭킹 : https://youtu.be/GTyOXOOePCI
+- 마이페이지 : https://youtu.be/4CvJ1uWFq-w
+- 마이페이지 수정 : https://youtu.be/3wgqqCZqeX8
+- 마이페이지 프로필사진 수정 : https://youtu.be/41NF-oV5fnw
+- 마이페이지 비밀번호 변경 : https://youtu.be/LkyMiA-csD8
+- 레시피 등록 : https://youtu.be/6ZxssJKbBbg
+- 레시피 상세보기 : https://youtu.be/x32vCvrcqc0
+- 레시피 필터 : https://youtu.be/Xqb071KUzrA
+- 채팅 : https://www.youtube.com/watch?v=9so10OoHGbk&feature=youtu.be
 
 ## 개발환경⚙
 <div align="center">
