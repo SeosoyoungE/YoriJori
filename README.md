@@ -1,3 +1,5 @@
+<div align="left">
+
 # [2023]멀티캠퍼스 finalProject - 요리 레시피 사이트🍲
 
 요리 레시피 사이트 YoriJori입니다.
@@ -34,14 +36,10 @@
 - 채팅 : https://www.youtube.com/watch?v=9so10OoHGbk&feature=youtu.be
 
 ## 개발환경⚙
-<div align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java 11-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/maven-064F8C?style=for-the-badge&logo=java&logoColor=white">
-</div>
 
 
 ## STACKS📚
-<div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jpa-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
 
-*추가중입니다*
+</div>
