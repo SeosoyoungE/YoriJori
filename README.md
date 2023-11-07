@@ -1,6 +1,6 @@
 <div align="left">
 
-# [2023]멀티캠퍼스 finalProject - 요리 레시피 사이트🍲
+# [full-stack]멀티캠퍼스 finalProject - 요리 레시피 사이트🍲
 
 요리 레시피 사이트 YoriJori입니다.
 
