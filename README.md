@@ -17,25 +17,28 @@
 
 ## 홈페이지 소개
 ![포트폴리오 (1)](https://github.com/SeosoyoungE/SeosoyoungE/assets/127925743/ecdd6d89-3ba7-42c9-8f16-a0b75435e213)
+<div align="center"><메인 페이지></div>
 <br/><br/>
-<기능 소개 영상>
-- 회원가입 : https://youtu.be/VLuAhoMf-3U
-- 로그인 : https://youtu.be/uCXH3HvvI3o
-- 카카오로그인 : https://youtu.be/xVhEKVfIRgA
-- 쿠킹클래스 insert : https://youtu.be/u1GmN7MFg7k
-- 쿠킹클래스 결제 : https://youtu.be/h2Sbm6zZXUQ
-- 공지사항 등록 : https://youtu.be/YKd0irdaOjM
-- 게시글 등록 : https://youtu.be/oTlqhbuK7Jc
-- 게시글 댓글 : https://youtu.be/X8SEYORnt3M
-- 회원 랭킹 : https://youtu.be/GTyOXOOePCI
-- 마이페이지 : https://youtu.be/4CvJ1uWFq-w
-- 마이페이지 수정 : https://youtu.be/3wgqqCZqeX8
-- 마이페이지 프로필사진 수정 : https://youtu.be/41NF-oV5fnw
-- 마이페이지 비밀번호 변경 : https://youtu.be/LkyMiA-csD8
-- 레시피 등록 : https://youtu.be/6ZxssJKbBbg
-- 레시피 상세보기 : https://youtu.be/x32vCvrcqc0
-- 레시피 필터 : https://youtu.be/Xqb071KUzrA
-- 채팅 : https://www.youtube.com/watch?v=9so10OoHGbk&feature=youtu.be
+
+**기능 소개 영상**:movie_camera:
+> [회원가입](https://youtu.be/VLuAhoMf-3U)<br/>
+> [로그인](https://youtu.be/uCXH3HvvI3o)<br/>
+> [카카오로그인](https://youtu.be/xVhEKVfIRgA)<br/>
+> [쿠킹클래스 insert](https://youtu.be/u1GmN7MFg7k)<br/>
+> [쿠킹클래스 결제](https://youtu.be/h2Sbm6zZXUQ)<br/>
+> [공지사항 등록](https://youtu.be/YKd0irdaOjM)<br/>
+> [게시글 등록](https://youtu.be/oTlqhbuK7Jc)<br/>
+> [게시글 댓글](https://youtu.be/X8SEYORnt3M)<br/>
+> [회원 랭킹](https://youtu.be/GTyOXOOePCI)<br/>
+> [마이페이지](https://youtu.be/4CvJ1uWFq-w)<br/>
+> [마이페이지 수정](https://youtu.be/3wgqqCZqeX8)<br/>
+> [마이페이지 프로필사진 수정](https://youtu.be/41NF-oV5fnw)<br/>
+> [마이페이지 비밀번호 변경](https://youtu.be/LkyMiA-csD8)<br/>
+> [레시피 등록](https://youtu.be/6ZxssJKbBbg)<br/>
+> [레시피 상세보기](https://youtu.be/x32vCvrcqc0)<br/>
+> [레시피 필터](https://youtu.be/Xqb071KUzrA)<br/>
+> [채팅](https://www.youtube.com/watch?v=9so10OoHGbk&feature=youtu.be)<br/>
+<br/>
 
 ## 개발환경⚙
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java 11-E34F26?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/maven-064F8C?style=for-the-badge&logo=java&logoColor=white">
