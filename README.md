@@ -16,7 +16,9 @@
 - 개발 인원: 6인
 
 ## 홈페이지 소개
-기능 소개 영상
+![포트폴리오 (1)](https://github.com/SeosoyoungE/SeosoyoungE/assets/127925743/ecdd6d89-3ba7-42c9-8f16-a0b75435e213)
+<br/><br/>
+<기능 소개 영상>
 - 회원가입 : https://youtu.be/VLuAhoMf-3U
 - 로그인 : https://youtu.be/uCXH3HvvI3o
 - 카카오로그인 : https://youtu.be/xVhEKVfIRgA
