@@ -21,7 +21,7 @@
 
 <br/>
 
-<**기능 소개 영상**(Youtube):movie_camera:>
+<**기능 소개 영상**(Youtube) :movie_camera:>
 > [회원가입](https://youtu.be/VLuAhoMf-3U)<br/>
 > [로그인](https://youtu.be/uCXH3HvvI3o)<br/>
 > [카카오로그인](https://youtu.be/xVhEKVfIRgA)<br/>
